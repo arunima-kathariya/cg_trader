@@ -1,0 +1,159 @@
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe.config
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.pdb
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MySql.Data.dll
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csprojResolveAssemblyReference.cache
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Properties.Resources.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.GenerateResource.Cache
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.exe
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.pdb
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Home.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.party.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form2.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form3.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Design.dll
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.dll
+E:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Fonts.dll
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl1.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl3.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl4.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl5.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.FirmReport.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Login.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Paryentry.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Party.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Bank.resources
+E:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Cheque.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe.config
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.exe
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.pdb
+K:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe
+K:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.pdb
+K:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Design.dll
+K:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.dll
+K:\assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Fonts.dll
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csprojResolveAssemblyReference.cache
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Home.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.FirmReport.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Login.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form2.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form3.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.party.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Properties.Resources.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl1.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Paryentry.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl3.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl4.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Bank.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Cheque.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Party.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl5.resources
+K:\assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.GenerateResource.Cache
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe.config
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.pdb
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Design.dll
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.dll
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Fonts.dll
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csprojAssemblyReference.cache
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Home.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.FirmReport.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Login.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form2.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form3.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.party.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Properties.Resources.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl1.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Paryentry.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl3.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl4.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Bank.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Cheque.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Party.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl5.resources
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.GenerateResource.cache
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.CoreCompileInputs.cache
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.CopyComplete
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.exe
+D:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.pdb
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csprojAssemblyReference.cache
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Home.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.FirmReport.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Login.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form2.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form3.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.party.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Properties.Resources.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl1.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Paryentry.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl3.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl4.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Bank.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Cheque.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Party.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl5.resources
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.GenerateResource.cache
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.CoreCompileInputs.cache
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.exe
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.pdb
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe.config
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.pdb
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Design.dll
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.dll
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Fonts.dll
+H:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.CopyComplete
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe.config
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.exe
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\CG trader.pdb
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Design.dll
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.dll
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\bin\Debug\MetroFramework.Fonts.dll
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.AssemblyReference.cache
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Home.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.FirmReport.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Login.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form2.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Form3.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.party.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Properties.Resources.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl1.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Paryentry.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl3.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl4.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Bank.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Cheque.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.Update_Party.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG_trader.UserControl5.resources
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.GenerateResource.cache
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.CoreCompileInputs.cache
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.csproj.CopyComplete
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.exe
+F:\1st sem assignment\1st sem\programming\CG trader\CG trader\obj\Debug\CG trader.pdb
+E:\CG trader\CG trader\bin\Debug\CG trader.exe.config
+E:\CG trader\CG trader\bin\Debug\CG trader.exe
+E:\CG trader\CG trader\bin\Debug\CG trader.pdb
+E:\CG trader\CG trader\bin\Debug\MetroFramework.Design.dll
+E:\CG trader\CG trader\bin\Debug\MetroFramework.dll
+E:\CG trader\CG trader\bin\Debug\MetroFramework.Fonts.dll
+E:\CG trader\CG trader\obj\Debug\CG trader.csproj.AssemblyReference.cache
+E:\CG trader\CG trader\obj\Debug\CG_trader.Home.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.FirmReport.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Login.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Form2.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Form3.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.party.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Properties.Resources.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.UserControl1.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Paryentry.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.UserControl3.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.UserControl4.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Update_Bank.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Update_Cheque.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.Update_Party.resources
+E:\CG trader\CG trader\obj\Debug\CG_trader.UserControl5.resources
+E:\CG trader\CG trader\obj\Debug\CG trader.csproj.GenerateResource.cache
+E:\CG trader\CG trader\obj\Debug\CG trader.csproj.CoreCompileInputs.cache
+E:\CG trader\CG trader\obj\Debug\CG trader.csproj.CopyComplete
+E:\CG trader\CG trader\obj\Debug\CG trader.exe
+E:\CG trader\CG trader\obj\Debug\CG trader.pdb
